@@ -1,0 +1,1 @@
+# Grimstad Weather Application
